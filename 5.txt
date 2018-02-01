@@ -1,1 +1,1 @@
-aHR0cDovL3RydWZlZW4uaW5mbw==,https://raw.githubusercontent.com/johnharris4p/sec/master/1.txt
+aHR0cDovL3RydWZlZW4uaW5mbw==,aHR0cHM6Ly9naXRodWIuY29tL2pvaG5oYXJyaXM0cC9qb2hudG9tYXMvYmxvYi9tYXN0ZXIvMS50eHQ=
